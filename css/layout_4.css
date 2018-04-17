@@ -1,0 +1,163 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: midnightblue;
+}
+
+/*Header start*/
+.header {
+    min-height: 150px;
+    overflow: hidden;
+}
+
+.logo {
+    background-color: darkseagreen;
+    min-height: 150px;
+    width: 28%;
+    float: left;
+
+}
+
+.nav {
+    background-color: seagreen;
+    min-height: 150px;
+    width: 70%;
+    float: right;
+
+}
+/*header end*/
+
+/*slider start*/
+.slider {
+    background-color: darkolivegreen;
+    min-height: 300px;
+    overflow: hidden;
+
+}
+
+.slider_text {
+    background-color: cadetblue;
+    min-height: 200px;
+    width: 60%;
+    margin: 50px auto;
+    overflow: hidden;
+
+}
+
+.s_text1 {
+    background-color: crimson;
+    min-height: 75;
+
+}
+
+.s_text2 {
+    background-color: deepskyblue;
+    min-height: 125;
+}
+/*slider end*/
+
+/*content section start*/
+.content {
+    overflow: hidden;
+    background-color: darkslategray;
+    min-height: 550px;
+
+}
+
+.services {
+    min-height: 340px;
+    overflow: hidden;
+    margin-top: 35px;
+}
+
+.service{
+    background-color: darksalmon;
+    min-height: 340px;
+    width: 20%;
+    float: left;
+    margin-left: 63px;
+    border-radius: 5px;
+
+}
+
+.service_top{
+    background-color: cornflowerblue;
+    min-height: 100px;
+    width: 100%;
+    overflow: hidden;
+    border-radius: 5px;
+    
+}
+
+.services_logo{
+    background-color: dimgrey;
+    min-height: 100px;
+    width: 38%;
+    float: left;
+    border-radius: 5px;
+    
+}
+
+.services_text{
+    background-color: darkorange;
+    min-height: 100px;
+    width: 62%;
+    float: right;
+    border-radius: 5px;
+    
+}
+
+.service_text{
+    background-color: azure;
+    min-height: 190px;
+    width: 100%;
+    border-radius: 5px;
+    
+}
+
+.view{
+    background-color: beige ;
+    min-height: 40px;
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 5px;
+    
+    
+}
+/*content section end*/
+
+/*footer start*/
+.social_media{
+    background-color: firebrick;
+    min-height: 100px;
+    margin-top: 40px;
+    overflow: hidden;
+    
+}
+
+.media{
+    min-height: 60px;
+    width: 13%;
+    float: left;
+    margin-left: 65px;
+    padding-top: 48px;
+    padding-left: 42px
+    
+    
+}
+/*footer end*/
+
+
+
+
+
+
+
+
+
+
+
+
+
