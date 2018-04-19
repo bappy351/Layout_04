@@ -72,12 +72,12 @@
 }
 
 .service{
-    background-color: darksalmon;
-    min-height: 340px;
+    border: 1px solid black;
+    min-height: 330px;
     width: 19%;
     float: left;
-    margin-left: 60px;
-    border-radius: 5px;;
+    margin-left: 57px;
+    border-radius: 5px;
 
 }
 
@@ -129,7 +129,7 @@
 
 /*footer start*/
 .social_media{
-    background-color: firebrick;
+    background-color: #824848;
     min-height: 100px;
     margin-top: 40px;
     overflow: hidden;
