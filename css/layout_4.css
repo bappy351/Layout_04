@@ -72,12 +72,12 @@
 }
 
 .service{
-    border: 1px solid black;
-    min-height: 330px;
+    background-color: darksalmon;
+    min-height: 340px;
     width: 19%;
     float: left;
-    margin-left: 57px;
-    border-radius: 5px;
+    margin-left: 60px;
+    border-radius: 5px;;
 
 }
 
