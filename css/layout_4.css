@@ -31,15 +31,15 @@
 /*slider start*/
 .slider {
     background-color: darkolivegreen;
-    min-height: 300px;
+    min-height: 350px;
     overflow: hidden;
 
 }
 
 .slider_text {
     background-color: cadetblue;
-    min-height: 200px;
-    width: 60%;
+    min-height: 263px;
+    width: 50%;
     margin: 50px auto;
     overflow: hidden;
 
@@ -52,8 +52,8 @@
 }
 
 .s_text2 {
-    background-color: deepskyblue;
-    min-height: 125;
+   background-color: deepskyblue;
+   min-height: 188px;
 }
 /*slider end*/
 
@@ -61,7 +61,7 @@
 .content {
     overflow: hidden;
     background-color: darkslategray;
-    min-height: 550px;
+    min-height: 580px;
 
 }
 
@@ -72,17 +72,16 @@
 }
 
 .service{
-    background-color: darksalmon;
-    min-height: 340px;
-    width: 20%;
+    border: 1px solid black;
+    min-height: 330px;
+    width: 19%;
     float: left;
-    margin-left: 63px;
+    margin-left: 57px;
     border-radius: 5px;
 
 }
 
 .service_top{
-    background-color: cornflowerblue;
     min-height: 100px;
     width: 100%;
     overflow: hidden;
@@ -138,15 +137,13 @@
 }
 
 .media{
-    min-height: 60px;
-    width: 13%;
+    min-height: 55px;
+    width: 10%;
     float: left;
-    margin-left: 65px;
-    padding-top: 48px;
-    padding-left: 42px
+    margin: 0px 60px;
+    padding: 38px 3px;
     
-    
-}
+ }
 /*footer end*/
 
 
